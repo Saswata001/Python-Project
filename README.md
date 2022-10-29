@@ -28,11 +28,12 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - Clone on your local machine
 
 ```terminal
-git clone git@github.com:pixobia/SQL-Notes.git
+git clone https://github.com/Saswata001/Python-Project.git
 ```
 - Navigate to project directory.
 ```terminal
-cd SQL-Notes
+cd 
+Python-Project
 ```
 
 - Create a new Branch
